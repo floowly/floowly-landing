@@ -1,8 +1,8 @@
 import { useEffect } from 'react';
 import Router from 'next/router';
 import { initGA, logPageView } from 'analytics';
-// Load DM Sans typeface
-import 'typeface-dm-sans';
+// Load Open Sans typeface
+import 'typeface-open-sans';
 
 // Load other package css file
 import 'react-multi-carousel/lib/styles.css';
